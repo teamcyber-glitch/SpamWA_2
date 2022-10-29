@@ -5,7 +5,6 @@
 
 ## Instalasi
 ```
-$ cd
 $ pkg update &&  pkg upgrade -y
 $ pkg install git -y
 $ pkg install python && pkg install python2 && pkg install python3 -y
