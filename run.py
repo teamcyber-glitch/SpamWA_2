@@ -484,7 +484,7 @@ def mr_dark_input():
              else:
                   print (f'   \033[1;37m[\033[1;32m{dark_point}\033[1;37m] \033[1;32mTerkirim \033[31m ')
                   dark_point += 1
-             dark_time(00, 15)
+             dark_time(00, 60)
     elif subs_mr_dark == "3":
          dark_point = 1
          print ("\033[1;30m<════════════[\033[1;33;41m • \033[1;37mRUNNING \033[1;33m• \033[0m\033[1;30m]══════════════>")
