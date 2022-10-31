@@ -3,8 +3,7 @@
 
 >  merupakan script spam sms, call, whatsapp yang di kembangkan oleh grup CYBER CRIME HUNTER
 
-<details open>
-  <summary><strong> Install Package + Run Script </strong></summary>
+## Instalasi
 ```
 $ termux-setup-storage (buat baru install termux)
 $ pkg update && pkg upgrade -y
@@ -20,7 +19,6 @@ $ pip install mechanize
 $ pip install requests
 $ git clone https://github.com/teamcyber-glitch/SpamWA_2
 ```
-</details>
 ## Eksekusi
 ```python3
 $ cd SpamWA_2
